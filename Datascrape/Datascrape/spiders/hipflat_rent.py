@@ -45,5 +45,3 @@ class HipflatSpider(scrapy.Spider):
              }
             
             yield items
-
-    
